@@ -2,6 +2,9 @@
 
 > A fintech-grade real-time streaming pipeline built to prove that no matter how chaotic the input — duplicates, out-of-order events, malformed payloads — every customer balance updates exactly once.
 
+---
+
+## Project Architecture
 ![Architecture](architecture.png)
 
 ---
