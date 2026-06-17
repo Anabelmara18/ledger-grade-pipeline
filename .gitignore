@@ -1,0 +1,9 @@
+.env
+ledger-grade/
+[Ll]edger-grade/
+Lib/
+site-packages/
+__pycache__/
+*.pyc
+.venv/
+venv/
