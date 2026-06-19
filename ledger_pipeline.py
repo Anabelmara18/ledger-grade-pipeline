@@ -2,7 +2,6 @@ import dlt
 from pyspark.sql.functions import col, current_timestamp, when, lit, sum, count, max
 from pyspark.sql.types import DoubleType, TimestampType
 
-
 # ============================================================
 # BRONZE — raw streaming table
 # ============================================================
